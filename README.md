@@ -1,0 +1,2 @@
+# Monte-Carlo-Algorithm-for-Solving-Convex-Optimization-Problem
+The project aims to develop and implement Monte Carlo algorithms for solving convex optimization problems, focusing on their application to the Max-Cut problem. The Max-Cut problem is a well-known NP-hard problem in combinatorial optimization, making it a challenging but relevant test case for the effectiveness of Monte Carlo methods.
